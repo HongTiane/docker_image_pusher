@@ -1,1 +1,1 @@
-nginx/nginx-prometheus-exporter:1.5.1
+--platform=linux/arm64 nginx/nginx-prometheus-exporter:1.5.1
