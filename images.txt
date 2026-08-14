@@ -1,1 +1,1 @@
---platform=linux/arm64 postgres:16-alpine
+--platform=linux/amd64 mysql:latest
