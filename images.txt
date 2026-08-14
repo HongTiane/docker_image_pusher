@@ -1,1 +1,1 @@
---platform=linux/amd64 mysql:latest
+--platform=linux/amd64 nginx:latest
