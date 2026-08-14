@@ -1,1 +1,1 @@
---platform=linux/amd64 dhi.io/etcd:3
+--platform=linux/amd64 cleanstart/etcd:latest
