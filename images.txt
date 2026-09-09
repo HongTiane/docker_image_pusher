@@ -1,1 +1,1 @@
---platform=linux/amd64 nacos/nacos-server:v2.5.3
+--platform=linux/amd64 apache/apisix:3.18.0-debian
