@@ -1,1 +1,1 @@
---platform=linux/amd64 apache/apisix:3.18.0-debian
+--platform=linux/arm64 nginx:1.31.7
